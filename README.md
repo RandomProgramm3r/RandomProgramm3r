@@ -1,4 +1,9 @@
-<h1>Hi, I'm Max, Web Developer 👋🏻:</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=9370DB&center=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Max!" alt="Typing SVG" />
+  </a>
+</div>
+
 
 <h1>💻 Tech Stack:</h1>
 
