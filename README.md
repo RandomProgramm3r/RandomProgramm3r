@@ -5,7 +5,7 @@
 </div>
 
 
-<h1>💻 Tech Stack:</h1>
+<h1>💻 Tech Stack 💻</h1>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="Python" />
