@@ -13,7 +13,7 @@
 
 <h1>💻 Tech Stack 💻</h1>
 
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 15px">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="Django" />
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" height="40" alt="Django REST" />
