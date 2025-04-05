@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="40" alt="GitLab" />
 </div>
 
-<h2>🐍 My Contributions 🐍</h2>
+<h1>🐍 My Contributions 🐍</h1>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RandomProgramm3r/RandomProgramm3r/output/github-snake-dark.svg" />
