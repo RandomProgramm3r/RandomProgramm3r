@@ -4,14 +4,7 @@
   </a>
 </div>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a promo code API**
-
-
- </div>
-
-<h1>💻 Tech Stack 💻</h1>
+# 💻 Tech Stack 💻
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 15px">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="Python" />
@@ -29,7 +22,7 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="40" alt="GitLab" />
 </div>
 
-<h1>🐍 My Contributions 🐍</h1>
+# 🐍 My Contributions 🐍
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RandomProgramm3r/RandomProgramm3r/output/github-snake-dark.svg" />
